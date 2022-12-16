@@ -7,4 +7,4 @@ Codewars discourage sharing solutions, that's why I only share my 8 kyu solution
 
 ### Current Elixir rank
 
-![Elixir Rank](https://shields.io/badge/-7%20kyu-white?logo=elixir&style=for-the-badge&logoColor=4B275F)
+![Elixir Rank](https://shields.io/badge/-6%20kyu-white?logo=elixir&style=for-the-badge&logoColor=4B275F)
